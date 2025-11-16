@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ABHYAS MITRA",
+  "description": "A bilingual AI study assistant for students who speak Gujarati and English. Get help with study notes, flashcards, quizzes, and more through text or voice chat.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
